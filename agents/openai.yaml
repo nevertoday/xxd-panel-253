@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 253"
-  short_description: "扁平钥匙：上半保留原照，下半把主题压成纯净色块的扁平符号和留白"
-  default_prompt: "Use $xxd-panel-253 to transform my photograph following the complete canonical source brief."
+  short_description: "扁平钥匙：把照片主题压成纯净色块的扁平符号，像一把有故事的视觉钥匙"
+  default_prompt: "Use $xxd-panel-253 to turn my photo into Flat Theme Key artwork."

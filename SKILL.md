@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-253
-description: "Create XXD Panel 253 raster artwork: a faithful photograph paired with a flat symbolic theme-key illustration of a few clean shapes and one subject in editorial white space. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-253 or asks for this 扁平钥匙 style."
+description: "XXD Panel 253｜Flat Theme Key: distils the theme of a photo into one highly simplified flat symbol that works like a visual key with a story — clean geometric shapes, soft outlines, layered flat colour blocks, exaggerated proportions and a light hand-drawn touch, no realistic texture or complex lighting, a single subject centred, offset, cropped or floating in generous white space, a clear, bright palette of cream, misty blue, sky blue, mint, soft yellow, peach pink and coral orange drawn from the photo, and a small modern editorial title, keyword or note. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-253 or asks for flat symbolic, editorial flat or theme-key illustration from a photo."
 ---
 
 # XXD Panel 253
